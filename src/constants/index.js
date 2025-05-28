@@ -18,9 +18,9 @@ const navLinks = [
 ];
 
 const words = [
-  { text: "Plan", imgPath: "/images/ideas.svg" },
-  { text: "Design", imgPath: "/images/designs.svg" },
-  { text: "Code", imgPath: "/images/code.svg" },
+  { text: "Plan", imgPath: "/portfolio-3d/images/ideas.svg" },
+  { text: "Design", imgPath: "/portfolio-3d/images/designs.svg" },
+  { text: "Code", imgPath: "/portfolio-3d/images/code.svg" },
 ];
 
 const counterItems = [
